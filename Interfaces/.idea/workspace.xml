@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="18681cb4-de3d-441c-a49c-03fb92e60614" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/Krystiano/MobilePhone.java" afterPath="$PROJECT_DIR$/src/com/Krystiano/MobilePhone.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/Krystiano/Main.java" afterPath="$PROJECT_DIR$/src/com/Krystiano/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,17 +16,17 @@
   <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/Krystiano/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            <state relative-caret-position="289">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MobilePhone.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MobilePhone.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Krystiano/MobilePhone.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="14">
@@ -123,8 +123,8 @@
         <option value="$PROJECT_DIR$/src/com/Krystiano/Gearbox.java" />
         <option value="$PROJECT_DIR$/src/com/Krystiano/ITelephone.java" />
         <option value="$PROJECT_DIR$/src/com/Krystiano/DeskPhone.java" />
-        <option value="$PROJECT_DIR$/src/com/Krystiano/Main.java" />
         <option value="$PROJECT_DIR$/src/com/Krystiano/MobilePhone.java" />
+        <option value="$PROJECT_DIR$/src/com/Krystiano/Main.java" />
       </list>
     </option>
   </component>
@@ -287,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508343474817</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="MobilePhone added">
+      <created>1508348103702</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1508348103702</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
@@ -367,7 +374,8 @@
     <MESSAGE value="Deskphone interface method added" />
     <MESSAGE value="Main methods" />
     <MESSAGE value="MobilePhone class declared" />
-    <option name="LAST_COMMIT_MESSAGE" value="MobilePhone class declared" />
+    <MESSAGE value="MobilePhone added" />
+    <option name="LAST_COMMIT_MESSAGE" value="MobilePhone added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -424,14 +432,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Krystiano/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Krystiano/MobilePhone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="14">
@@ -440,6 +440,14 @@
             <element signature="e#202#203#0" expanded="true" />
             <element signature="e#242#243#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Krystiano/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

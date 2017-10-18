@@ -10,5 +10,8 @@ public class Main {
         krystianoPhone.callPhone(123456);
         krystianoPhone.answer();
 
+        krystianoPhone = new MobilePhone(234567);
+        krystianoPhone.callPhone(234567);
+        krystianoPhone.answer();
     }
 }
