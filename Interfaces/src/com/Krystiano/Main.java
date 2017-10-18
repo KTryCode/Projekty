@@ -9,5 +9,7 @@ public class Main {
         krystianoPhone.powerOn();
         krystianoPhone.callPhone(123456);
         krystianoPhone.answer();
+
+        //
     }
 }
