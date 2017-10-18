@@ -10,6 +10,5 @@ public class Main {
         krystianoPhone.callPhone(123456);
         krystianoPhone.answer();
 
-        //
     }
 }
